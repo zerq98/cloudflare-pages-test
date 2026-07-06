@@ -1,0 +1,10 @@
+﻿# Website Cost Guide
+
+This is a static educational guide explaining what affects the cost of building a website, how to prepare a project brief, and what questions to answer before asking for a quote.
+
+Key pages:
+- / - main guide about website pricing and project scope
+- /checklista - checklist before requesting a quote
+- /slownik - glossary of common website project terms
+
+The content is informational and does not constitute a binding commercial offer.
